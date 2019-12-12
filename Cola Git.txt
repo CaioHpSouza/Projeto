@@ -1,0 +1,12 @@
+git init
+git remote add origin URL
+git add .
+git commit -m ""
+git push origin master
+
+para download via git
+cd pasta
+git clone URL
+git add .
+git commit -m ""
+git push origin master
